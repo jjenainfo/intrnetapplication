@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">  
+<suite name="intrnetapplication"> 
+ <listeners>
+    <listener class-name="com.intraloginUtilities.Reporting"></listener>
+   </listeners> 
+  
+  <test name="chrome Test">  
+  <parameter name="browser" value="chrome">
+    <classes>  
+     <class name="com.intraloginTestCases.LoginToIntranet_TC_001"/>
+     <!--  <class name="com.intraloginTestCases.LoginToIntranet_TC_002_ExcelRead"/>-->   
+      </classes>  
+      </parameter> 
+  </test> <!-- Test -->  
+  
+ <!--   <test name="Firefox Test">  
+  <parameter name="browser" value="Firefox">
+    <classes>  
+      <class name="com.intraloginTestCases.LoginToIntranet_TC_001"/>  
+      </classes>  
+      </parameter> 
+  </test> Test  -->
+</suite> <!-- Suite -->  

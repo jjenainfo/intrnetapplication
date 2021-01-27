@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="intrnetapplication" duration-ms="39908" started-at="2021-01-27T14:43:42 IST" finished-at="2021-01-27T14:44:22 IST">
+    <groups>
+    </groups>
+    <test name="chrome Test" duration-ms="39908" started-at="2021-01-27T14:43:42 IST" finished-at="2021-01-27T14:44:22 IST">
+      <class name="com.intraloginTestCases.LoginToIntranet_TC_001">
+        <test-method status="PASS" signature="open_browser(java.lang.String)[pri:0, instance:com.intraloginTestCases.LoginToIntranet_TC_001@13805618]" name="open_browser" is-config="true" duration-ms="17690" started-at="2021-01-27T14:43:42 IST" finished-at="2021-01-27T14:44:00 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_browser -->
+        <test-method status="PASS" signature="loginTointranet()[pri:0, instance:com.intraloginTestCases.LoginToIntranet_TC_001@13805618]" name="loginTointranet" duration-ms="20766" started-at="2021-01-27T14:44:00 IST" finished-at="2021-01-27T14:44:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTointranet -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.intraloginTestCases.LoginToIntranet_TC_001@13805618]" name="tearDown" is-config="true" duration-ms="1012" started-at="2021-01-27T14:44:21 IST" finished-at="2021-01-27T14:44:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.intraloginTestCases.LoginToIntranet_TC_001 -->
+    </test> <!-- chrome Test -->
+  </suite> <!-- intrnetapplication -->
+</testng-results>

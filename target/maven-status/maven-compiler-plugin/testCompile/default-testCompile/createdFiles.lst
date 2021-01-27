@@ -1,0 +1,8 @@
+com\intraloginTestCases\BaseClass.class
+com\intraloginUtilities\Readconfig.class
+com\intraloginUtilities\XLUtilities.class
+com\intraloginTestCases\LoginToIntranet_TC_002_ExcelRead.class
+com\intraloginPageObject\UserLogin.class
+com\intraloginTestCases\LoginToIntranet_TC_001.class
+com\intraloginUtilities\Reporting.class
+com\intraloginUtilities\XLSXUtilities.class

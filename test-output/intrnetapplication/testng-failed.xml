@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [intrnetapplication]">
+  <listeners>
+    <listener class-name="com.intraloginUtilities.Reporting"/>
+  </listeners>
+  <test thread-count="5" name="chrome Test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.intraloginTestCases.LoginToIntranet_TC_002_ExcelRead">
+        <methods>
+          <include name="open_browser"/>
+          <include name="tearDown"/>
+          <include name="readDataFromExcel" invocation-numbers="0 2"/>
+        </methods>
+      </class> <!-- com.intraloginTestCases.LoginToIntranet_TC_002_ExcelRead -->
+    </classes>
+  </test> <!-- chrome Test(failed) -->
+</suite> <!-- Failed suite [intrnetapplication] -->
