@@ -8,56 +8,14 @@
 <body>
 <table>
 <tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Retried</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
-<tr><th colspan="8">intrnetapplication</th></tr>
-<tr><td><a href="#t0">chrome Test</a></td><td class="num">2</td><td class="num">0</td><td class="num">0</td><td class="num attn">2</td><td class="num">51,834</td><td></td><td></td></tr>
+<tr><th colspan="8">Suite</th></tr>
+<tr><td><a href="#t0">Test</a></td><td class="num">4</td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num">89</td><td>regression, regression1, smoke</td><td></td></tr>
 </table>
-<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">intrnetapplication</th></tr></tbody><tbody id="t0"><tr><th colspan="4">chrome Test &#8212; failed</th></tr><tr class="failedeven"><td rowspan="2">com.intraloginTestCases.LoginToIntranet_TC_002_ExcelRead</td><td><a href="#m0">readDataFromExcel</a></td><td rowspan="2">1611574624116</td><td rowspan="2">10591</td></tr><tr class="failedeven"><td><a href="#m1">readDataFromExcel</a></td></tr><tr><th colspan="4">chrome Test &#8212; passed</th></tr><tr class="passedeven"><td rowspan="1">com.intraloginTestCases.LoginToIntranet_TC_001</td><td><a href="#m2">loginTointranet</a></td><td rowspan="1">1611574609124</td><td rowspan="1">8292</td></tr><tr class="passedodd"><td rowspan="1">com.intraloginTestCases.LoginToIntranet_TC_002_ExcelRead</td><td><a href="#m3">readDataFromExcel</a></td><td rowspan="1">1611574634712</td><td rowspan="1">6476</td></tr></tbody>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Test &#8212; passed</th></tr><tr class="passedeven"><td rowspan="4">practice.GroupingOfTestcases</td><td><a href="#m0">test1</a></td><td rowspan="1">1612762320563</td><td rowspan="1">12</td></tr><tr class="passedeven"><td><a href="#m1">test3</a></td><td rowspan="1">1612762320582</td><td rowspan="1">2</td></tr><tr class="passedeven"><td><a href="#m2">test4</a></td><td rowspan="1">1612762320588</td><td rowspan="1">2</td></tr><tr class="passedeven"><td><a href="#m3">test5</a></td><td rowspan="1">1612762320593</td><td rowspan="1">2</td></tr></tbody>
 </table>
-<h2>chrome Test</h2><h3 id="m0">com.intraloginTestCases.LoginToIntranet_TC_002_ExcelRead#readDataFromExcel</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th></tr><tr class="param stripe"><td>c22642</td><td>Jan@2020</td></tr><tr><th colspan="2">Exception</th></tr><tr><td colspan="2"><div class="stacktrace">org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//tr/td[@class=&apos;worldcup_msg_title&apos;]&quot;}
-  (Session info: chrome=87.0.4280.141)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
-System info: host: &apos;B15-IT-C22642&apos;, ip: &apos;192.168.56.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_151&apos;
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.141, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: C:\Users\c22642\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:55753}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: e407fb493716115f5820a89a05e65333
-*** Element info: {Using=xpath, value=//tr/td[@class=&apos;worldcup_msg_title&apos;]}
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
-	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-	at com.intraloginTestCases.LoginToIntranet_TC_002_ExcelRead.readDataFromExcel(LoginToIntranet_TC_002_ExcelRead.java:35)
-	at java.util.ArrayList.forEach(ArrayList.java:1255)
-... Removed 31 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m1">com.intraloginTestCases.LoginToIntranet_TC_002_ExcelRead#readDataFromExcel</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th></tr><tr class="param stripe"><td>c22642</td><td>Fan@2021</td></tr><tr><th colspan="2">Exception</th></tr><tr><td colspan="2"><div class="stacktrace">org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//tr/td[@class=&apos;worldcup_msg_title&apos;]&quot;}
-  (Session info: chrome=87.0.4280.141)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
-System info: host: &apos;B15-IT-C22642&apos;, ip: &apos;192.168.56.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_151&apos;
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.141, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: C:\Users\c22642\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:55753}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: e407fb493716115f5820a89a05e65333
-*** Element info: {Using=xpath, value=//tr/td[@class=&apos;worldcup_msg_title&apos;]}
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
-	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-	at com.intraloginTestCases.LoginToIntranet_TC_002_ExcelRead.readDataFromExcel(LoginToIntranet_TC_002_ExcelRead.java:35)
-	at java.util.ArrayList.forEach(ArrayList.java:1255)
-... Removed 31 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m2">com.intraloginTestCases.LoginToIntranet_TC_001#loginTointranet</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m3">com.intraloginTestCases.LoginToIntranet_TC_002_ExcelRead#readDataFromExcel</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th></tr><tr class="param stripe"><td>c22642</td><td>Jan@2021</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h2>Test</h2><h3 id="m0">practice.GroupingOfTestcases#test1</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m1">practice.GroupingOfTestcases#test3</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m2">practice.GroupingOfTestcases#test4</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m3">practice.GroupingOfTestcases#test5</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
 </body>
 </html>

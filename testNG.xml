@@ -8,8 +8,9 @@
   <test name="chrome Test">  
   <parameter name="browser" value="chrome">
     <classes>  
-     <class name="com.intraloginTestCases.LoginToIntranet_TC_001"/>
-     <!--  <class name="com.intraloginTestCases.LoginToIntranet_TC_002_ExcelRead"/>-->   
+     <!-- <class name="com.intraloginTestCases.LoginToIntranet_TC_001"/> -->
+     <!--  <class name="com.intraloginTestCases.LoginToIntranet_TC_002_ExcelRead"/>-->  
+     <class name="com.intraloginTestCases.LastMailDelivery_COD_UTILITY_TC_003" /> 
       </classes>  
       </parameter> 
   </test> <!-- Test -->  

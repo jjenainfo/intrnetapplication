@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="intrnetapplication" duration-ms="39908" started-at="2021-01-27T14:43:42 IST" finished-at="2021-01-27T14:44:22 IST">
+  <suite name="intrnetapplication" duration-ms="51257" started-at="2021-02-12T10:38:20 IST" finished-at="2021-02-12T10:39:12 IST">
     <groups>
     </groups>
-    <test name="chrome Test" duration-ms="39908" started-at="2021-01-27T14:43:42 IST" finished-at="2021-01-27T14:44:22 IST">
-      <class name="com.intraloginTestCases.LoginToIntranet_TC_001">
-        <test-method status="PASS" signature="open_browser(java.lang.String)[pri:0, instance:com.intraloginTestCases.LoginToIntranet_TC_001@13805618]" name="open_browser" is-config="true" duration-ms="17690" started-at="2021-01-27T14:43:42 IST" finished-at="2021-01-27T14:44:00 IST">
+    <test name="chrome Test" duration-ms="51257" started-at="2021-02-12T10:38:20 IST" finished-at="2021-02-12T10:39:12 IST">
+      <class name="com.intraloginTestCases.LastMailDelivery_COD_UTILITY_TC_003">
+        <test-method status="PASS" signature="open_browser(java.lang.String)[pri:0, instance:com.intraloginTestCases.LastMailDelivery_COD_UTILITY_TC_003@4b952a2d]" name="open_browser" is-config="true" duration-ms="17063" started-at="2021-02-12T10:38:21 IST" finished-at="2021-02-12T10:38:38 IST">
           <params>
             <param index="0">
               <value>
@@ -18,15 +18,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- open_browser -->
-        <test-method status="PASS" signature="loginTointranet()[pri:0, instance:com.intraloginTestCases.LoginToIntranet_TC_001@13805618]" name="loginTointranet" duration-ms="20766" started-at="2021-01-27T14:44:00 IST" finished-at="2021-01-27T14:44:21 IST">
+        <test-method status="PASS" signature="CodMasterUtility()[pri:0, instance:com.intraloginTestCases.LastMailDelivery_COD_UTILITY_TC_003@4b952a2d]" name="CodMasterUtility" duration-ms="32561" started-at="2021-02-12T10:38:38 IST" finished-at="2021-02-12T10:39:11 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- loginTointranet -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.intraloginTestCases.LoginToIntranet_TC_001@13805618]" name="tearDown" is-config="true" duration-ms="1012" started-at="2021-01-27T14:44:21 IST" finished-at="2021-01-27T14:44:22 IST">
+        </test-method> <!-- CodMasterUtility -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.intraloginTestCases.LastMailDelivery_COD_UTILITY_TC_003@4b952a2d]" name="tearDown" is-config="true" duration-ms="918" started-at="2021-02-12T10:39:11 IST" finished-at="2021-02-12T10:39:12 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.intraloginTestCases.LoginToIntranet_TC_001 -->
+      </class> <!-- com.intraloginTestCases.LastMailDelivery_COD_UTILITY_TC_003 -->
     </test> <!-- chrome Test -->
   </suite> <!-- intrnetapplication -->
 </testng-results>

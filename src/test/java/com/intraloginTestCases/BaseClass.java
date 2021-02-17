@@ -10,6 +10,7 @@ import java.util.concurrent.TimeUnit;
 import org.apache.commons.io.FileUtils;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
+import org.openqa.selenium.Alert;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
@@ -29,6 +30,11 @@ public class BaseClass {
 	String url=readconfig.getURL();
 	String userName=readconfig.getUserName();
 	String password=readconfig.getPassword();
+	String daywiseshipcount=readconfig.getdaywiseshipcount();
+	String minlimit = readconfig.getminlimit();
+	String dailyallowed =readconfig.getdailyallowedcash();
+	String noofdays =readconfig.getnoofdays();
+
 	public static WebDriver driver;
 	public static Logger logger;
 	@BeforeClass
@@ -46,6 +52,7 @@ public class BaseClass {
 	    driver=new FirefoxDriver();
 		}
 		driver.get(url);
+		driver.manage().window().maximize();
 		
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 	 }
@@ -64,6 +71,10 @@ public class BaseClass {
 		FileUtils.copyFile(source, target);
 		System.out.println("Screenshot Captured");
 		
+	}
+	public void swithchToAlert() {
+		
+		driver.switchTo().alert().accept();
 	}
 
 }

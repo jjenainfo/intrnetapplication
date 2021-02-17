@@ -3,13 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.intraloginTestCases.LoginToIntranet_TC_001">
+      <class name="com.intraloginTestCases.LastMailDelivery_COD_UTILITY_TC_003">
         <methods>
           <include name="open_browser"/>
+          <include name="CodMasterUtility"/>
           <include name="tearDown"/>
-          <include name="loginTointranet"/>
         </methods>
-      </class> <!-- com.intraloginTestCases.LoginToIntranet_TC_001 -->
+      </class> <!-- com.intraloginTestCases.LastMailDelivery_COD_UTILITY_TC_003 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

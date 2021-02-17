@@ -40,7 +40,32 @@ public String getPassword() {
 	return password;
 	
 }
+
+public String getdaywiseshipcount() {
 	
+	String perDayShipmentLimit= prop.getProperty("daywiseshipcount");
+	return perDayShipmentLimit;
+	
+}
+public String getminlimit() {
+	
+	String minlimit= prop.getProperty("minlimit");
+	return minlimit;
+	
+}
+public String getdailyallowedcash() {
+	
+	String dailycashallowed= prop.getProperty("dailyallowed");
+	return dailycashallowed;
+	
+}
+public String getnoofdays() {
+	
+	String noOfOsDays= prop.getProperty("noofdays");
+	return noOfOsDays;
+	
+}
+
 	
 
 

@@ -124,3 +124,171 @@
 2021-01-27 14:44:00,846 - com.intraloginTestCases.BaseClass -INFO - User name provided
 2021-01-27 14:44:00,955 - com.intraloginTestCases.BaseClass -INFO - Password Provided
 2021-01-27 14:44:21,283 - com.intraloginTestCases.BaseClass -INFO - Test case passed
+2021-01-29 10:18:27,263 - com.intraloginTestCases.BaseClass -INFO - intapage opened
+2021-01-29 10:21:35,868 - com.intraloginTestCases.BaseClass -INFO - intapage opened
+2021-01-29 10:25:54,827 - com.intraloginTestCases.BaseClass -INFO - Browser open
+2021-01-29 10:25:55,079 - com.intraloginTestCases.BaseClass -INFO - User name provided
+2021-01-29 10:25:55,214 - com.intraloginTestCases.BaseClass -INFO - Password Provided
+2021-01-29 10:26:01,623 - com.intraloginTestCases.BaseClass -INFO - Test case passed
+2021-01-29 10:30:03,190 - com.intraloginTestCases.BaseClass -INFO - intrapage opened
+2021-01-29 10:33:01,306 - com.intraloginTestCases.BaseClass -INFO - Browser open
+2021-01-29 10:34:33,844 - com.intraloginTestCases.BaseClass -INFO - Browser open
+2021-01-29 10:34:34,041 - com.intraloginTestCases.BaseClass -INFO - User name provided
+2021-01-29 10:34:34,167 - com.intraloginTestCases.BaseClass -INFO - Password Provided
+2021-01-29 10:34:42,308 - com.intraloginTestCases.BaseClass -INFO - Test case passed
+2021-01-29 10:37:46,903 - com.intraloginTestCases.BaseClass -INFO - Browser open
+2021-01-29 10:37:47,151 - com.intraloginTestCases.BaseClass -INFO - User name provided
+2021-01-29 10:37:47,290 - com.intraloginTestCases.BaseClass -INFO - Password Provided
+2021-01-29 10:38:25,747 - com.intraloginTestCases.BaseClass -INFO - Browser open
+2021-01-29 10:38:26,040 - com.intraloginTestCases.BaseClass -INFO - User name provided
+2021-01-29 10:38:26,178 - com.intraloginTestCases.BaseClass -INFO - Password Provided
+2021-01-29 10:38:31,827 - com.intraloginTestCases.BaseClass -INFO - Test case passed
+2021-01-29 10:40:47,858 - com.intraloginTestCases.BaseClass -INFO - Browser open
+2021-01-29 10:40:48,135 - com.intraloginTestCases.BaseClass -INFO - User name provided
+2021-01-29 10:40:48,264 - com.intraloginTestCases.BaseClass -INFO - Password Provided
+2021-01-29 10:40:53,606 - com.intraloginTestCases.BaseClass -INFO - Test case passed
+2021-01-29 10:46:26,967 - com.intraloginTestCases.BaseClass -INFO - Browser open
+2021-01-29 10:54:42,755 - com.intraloginTestCases.BaseClass -INFO - Browser open
+2021-01-29 10:58:50,348 - com.intraloginTestCases.BaseClass -INFO - Browser open
+2021-01-29 10:58:50,534 - com.intraloginTestCases.BaseClass -INFO - User name provided
+2021-01-29 10:58:50,695 - com.intraloginTestCases.BaseClass -INFO - Password Provided
+2021-01-29 11:00:36,290 - com.intraloginTestCases.BaseClass -INFO - Browser open
+2021-01-29 11:00:36,546 - com.intraloginTestCases.BaseClass -INFO - User name provided
+2021-01-29 11:00:36,724 - com.intraloginTestCases.BaseClass -INFO - Password Provided
+2021-01-29 11:03:29,715 - com.intraloginTestCases.BaseClass -INFO - Browser open
+2021-01-29 11:03:29,935 - com.intraloginTestCases.BaseClass -INFO - User name provided
+2021-01-29 11:03:30,237 - com.intraloginTestCases.BaseClass -INFO - Password Provided
+2021-01-29 11:03:38,255 - com.intraloginTestCases.BaseClass -INFO - clicked on last mail delivery
+2021-01-29 11:03:39,627 - com.intraloginTestCases.BaseClass -INFO - clicked on master utility
+2021-01-29 11:04:43,905 - com.intraloginTestCases.BaseClass -INFO - Browser open
+2021-01-29 11:04:44,108 - com.intraloginTestCases.BaseClass -INFO - User name provided
+2021-01-29 11:04:44,270 - com.intraloginTestCases.BaseClass -INFO - Password Provided
+2021-01-29 11:04:53,612 - com.intraloginTestCases.BaseClass -INFO - clicked on last mail delivery
+2021-01-29 11:04:54,977 - com.intraloginTestCases.BaseClass -INFO - clicked on master utility
+2021-01-29 11:28:35,042 - com.intraloginTestCases.BaseClass -INFO - Browser open
+2021-01-29 11:28:35,320 - com.intraloginTestCases.BaseClass -INFO - User name provided
+2021-01-29 11:28:35,481 - com.intraloginTestCases.BaseClass -INFO - Password Provided
+2021-01-29 11:28:44,448 - com.intraloginTestCases.BaseClass -INFO - clicked on last mail delivery
+2021-01-29 11:28:45,817 - com.intraloginTestCases.BaseClass -INFO - clicked on master utility
+2021-01-29 11:33:47,464 - com.intraloginTestCases.BaseClass -INFO - Browser open
+2021-01-29 11:33:47,695 - com.intraloginTestCases.BaseClass -INFO - User name provided
+2021-01-29 11:33:47,871 - com.intraloginTestCases.BaseClass -INFO - Password Provided
+2021-01-29 11:33:55,978 - com.intraloginTestCases.BaseClass -INFO - clicked on last mail delivery
+2021-01-29 11:33:57,370 - com.intraloginTestCases.BaseClass -INFO - clicked on master utility
+2021-01-29 11:35:43,992 - com.intraloginTestCases.BaseClass -INFO - Browser open
+2021-01-29 11:35:44,252 - com.intraloginTestCases.BaseClass -INFO - User name provided
+2021-01-29 11:35:44,427 - com.intraloginTestCases.BaseClass -INFO - Password Provided
+2021-01-29 11:35:54,755 - com.intraloginTestCases.BaseClass -INFO - clicked on last mail delivery
+2021-01-29 11:35:56,045 - com.intraloginTestCases.BaseClass -INFO - clicked on master utility
+2021-01-29 11:39:37,102 - com.intraloginTestCases.BaseClass -INFO - Browser open
+2021-01-29 11:39:37,344 - com.intraloginTestCases.BaseClass -INFO - User name provided
+2021-01-29 11:39:37,538 - com.intraloginTestCases.BaseClass -INFO - Password Provided
+2021-01-29 11:39:49,724 - com.intraloginTestCases.BaseClass -INFO - clicked on last mail delivery
+2021-01-29 11:39:50,960 - com.intraloginTestCases.BaseClass -INFO - clicked on master utility
+2021-01-29 11:49:12,383 - com.intraloginTestCases.BaseClass -INFO - Browser open
+2021-01-29 11:49:12,614 - com.intraloginTestCases.BaseClass -INFO - User name provided
+2021-01-29 11:49:12,776 - com.intraloginTestCases.BaseClass -INFO - Password Provided
+2021-01-29 11:49:23,634 - com.intraloginTestCases.BaseClass -INFO - clicked on last mail delivery
+2021-01-29 11:49:24,886 - com.intraloginTestCases.BaseClass -INFO - clicked on master utility
+2021-01-29 12:00:21,461 - com.intraloginTestCases.BaseClass -INFO - Browser open
+2021-01-29 12:00:21,686 - com.intraloginTestCases.BaseClass -INFO - User name provided
+2021-01-29 12:00:21,818 - com.intraloginTestCases.BaseClass -INFO - Password Provided
+2021-01-29 12:00:31,174 - com.intraloginTestCases.BaseClass -INFO - clicked on last mail delivery
+2021-01-29 12:00:32,353 - com.intraloginTestCases.BaseClass -INFO - clicked on master utility
+2021-01-29 12:03:03,771 - com.intraloginTestCases.BaseClass -INFO - Browser open
+2021-01-29 12:03:04,019 - com.intraloginTestCases.BaseClass -INFO - User name provided
+2021-01-29 12:03:04,163 - com.intraloginTestCases.BaseClass -INFO - Password Provided
+2021-01-29 12:03:09,344 - com.intraloginTestCases.BaseClass -INFO - clicked on last mail delivery
+2021-01-29 12:03:10,544 - com.intraloginTestCases.BaseClass -INFO - clicked on master utility
+2021-01-29 12:03:56,261 - com.intraloginTestCases.BaseClass -INFO - Browser open
+2021-01-29 12:03:56,459 - com.intraloginTestCases.BaseClass -INFO - User name provided
+2021-01-29 12:03:56,631 - com.intraloginTestCases.BaseClass -INFO - Password Provided
+2021-01-29 12:04:02,364 - com.intraloginTestCases.BaseClass -INFO - clicked on last mail delivery
+2021-01-29 12:04:03,564 - com.intraloginTestCases.BaseClass -INFO - clicked on master utility
+2021-01-29 12:04:05,504 - com.intraloginTestCases.BaseClass -INFO - biker selected
+2021-01-29 13:28:27,197 - com.intraloginTestCases.BaseClass -INFO - Browser open
+2021-01-29 13:28:27,575 - com.intraloginTestCases.BaseClass -INFO - User name provided
+2021-01-29 13:28:27,730 - com.intraloginTestCases.BaseClass -INFO - Password Provided
+2021-01-29 13:28:35,958 - com.intraloginTestCases.BaseClass -INFO - clicked on last mail delivery
+2021-01-29 13:28:37,134 - com.intraloginTestCases.BaseClass -INFO - clicked on master utility
+2021-01-29 13:28:43,586 - com.intraloginTestCases.BaseClass -INFO - biker selected
+2021-01-29 13:28:47,148 - com.intraloginTestCases.BaseClass -INFO - submit button clicked
+2021-01-29 13:28:47,238 - com.intraloginTestCases.BaseClass -INFO - edit button clicked
+2021-01-29 13:59:21,292 - com.intraloginTestCases.BaseClass -INFO - Browser open
+2021-01-29 13:59:21,508 - com.intraloginTestCases.BaseClass -INFO - User name provided
+2021-01-29 13:59:21,643 - com.intraloginTestCases.BaseClass -INFO - Password Provided
+2021-01-29 13:59:29,229 - com.intraloginTestCases.BaseClass -INFO - clicked on last mail delivery
+2021-01-29 13:59:30,427 - com.intraloginTestCases.BaseClass -INFO - clicked on master utility
+2021-01-29 13:59:31,871 - com.intraloginTestCases.BaseClass -INFO - biker selected
+2021-01-29 13:59:37,001 - com.intraloginTestCases.BaseClass -INFO - submit button clicked
+2021-01-29 13:59:37,071 - com.intraloginTestCases.BaseClass -INFO - edit button clicked
+2021-01-29 14:02:14,647 - com.intraloginTestCases.BaseClass -INFO - Browser open
+2021-01-29 14:02:14,890 - com.intraloginTestCases.BaseClass -INFO - User name provided
+2021-01-29 14:02:15,052 - com.intraloginTestCases.BaseClass -INFO - Password Provided
+2021-01-29 14:02:22,867 - com.intraloginTestCases.BaseClass -INFO - clicked on last mail delivery
+2021-01-29 14:02:24,131 - com.intraloginTestCases.BaseClass -INFO - clicked on master utility
+2021-01-29 14:02:28,156 - com.intraloginTestCases.BaseClass -INFO - biker selected
+2021-01-29 14:02:30,978 - com.intraloginTestCases.BaseClass -INFO - submit button clicked
+2021-01-29 14:02:31,122 - com.intraloginTestCases.BaseClass -INFO - edit button clicked
+2021-01-29 15:21:00,932 - com.intraloginTestCases.BaseClass -INFO - Browser open
+2021-01-29 15:21:01,184 - com.intraloginTestCases.BaseClass -INFO - User name provided
+2021-01-29 15:21:01,368 - com.intraloginTestCases.BaseClass -INFO - Password Provided
+2021-01-29 15:21:12,539 - com.intraloginTestCases.BaseClass -INFO - clicked on last mail delivery
+2021-01-29 15:21:14,453 - com.intraloginTestCases.BaseClass -INFO - clicked on master utility
+2021-01-29 15:21:21,679 - com.intraloginTestCases.BaseClass -INFO - biker selected
+2021-01-29 15:21:27,497 - com.intraloginTestCases.BaseClass -INFO - submit button clicked
+2021-01-29 15:23:28,800 - com.intraloginTestCases.BaseClass -INFO - Browser open
+2021-01-29 15:23:29,048 - com.intraloginTestCases.BaseClass -INFO - User name provided
+2021-01-29 15:23:29,224 - com.intraloginTestCases.BaseClass -INFO - Password Provided
+2021-01-29 15:23:36,525 - com.intraloginTestCases.BaseClass -INFO - clicked on last mail delivery
+2021-01-29 15:23:38,337 - com.intraloginTestCases.BaseClass -INFO - clicked on master utility
+2021-01-29 15:23:44,899 - com.intraloginTestCases.BaseClass -INFO - biker selected
+2021-01-29 15:23:47,664 - com.intraloginTestCases.BaseClass -INFO - submit button clicked
+2021-01-29 15:28:49,225 - com.intraloginTestCases.BaseClass -INFO - Browser open
+2021-01-29 15:28:49,440 - com.intraloginTestCases.BaseClass -INFO - User name provided
+2021-01-29 15:28:49,598 - com.intraloginTestCases.BaseClass -INFO - Password Provided
+2021-01-29 15:28:58,418 - com.intraloginTestCases.BaseClass -INFO - clicked on last mail delivery
+2021-01-29 15:28:59,794 - com.intraloginTestCases.BaseClass -INFO - clicked on master utility
+2021-01-29 15:29:05,988 - com.intraloginTestCases.BaseClass -INFO - biker selected
+2021-01-29 15:29:10,569 - com.intraloginTestCases.BaseClass -INFO - submit button clicked
+2021-01-29 15:29:12,701 - com.intraloginTestCases.BaseClass -INFO - edit button clicked
+2021-01-29 15:37:18,331 - com.intraloginTestCases.BaseClass -INFO - Browser open
+2021-01-29 15:37:18,522 - com.intraloginTestCases.BaseClass -INFO - User name provided
+2021-01-29 15:37:18,658 - com.intraloginTestCases.BaseClass -INFO - Password Provided
+2021-01-29 15:37:29,231 - com.intraloginTestCases.BaseClass -INFO - clicked on last mail delivery
+2021-01-29 15:37:30,530 - com.intraloginTestCases.BaseClass -INFO - clicked on master utility
+2021-01-29 15:37:37,377 - com.intraloginTestCases.BaseClass -INFO - biker selected
+2021-01-29 15:37:41,379 - com.intraloginTestCases.BaseClass -INFO - submit button clicked
+2021-01-29 15:37:43,518 - com.intraloginTestCases.BaseClass -INFO - edit button clicked
+2021-01-29 15:37:44,646 - com.intraloginTestCases.BaseClass -INFO - daywise shipcount entered
+2021-01-29 15:37:44,759 - com.intraloginTestCases.BaseClass -INFO - min limit entered
+2021-01-29 15:37:44,860 - com.intraloginTestCases.BaseClass -INFO - Max os entered
+2021-01-29 15:37:44,973 - com.intraloginTestCases.BaseClass -INFO - max days entered
+2021-01-29 15:42:21,768 - com.intraloginTestCases.BaseClass -INFO - Browser open
+2021-01-29 15:42:21,983 - com.intraloginTestCases.BaseClass -INFO - User name provided
+2021-01-29 15:42:22,130 - com.intraloginTestCases.BaseClass -INFO - Password Provided
+2021-01-29 15:42:32,315 - com.intraloginTestCases.BaseClass -INFO - clicked on last mail delivery
+2021-01-29 15:42:33,595 - com.intraloginTestCases.BaseClass -INFO - clicked on master utility
+2021-01-29 15:42:38,567 - com.intraloginTestCases.BaseClass -INFO - biker selected
+2021-01-29 15:42:41,743 - com.intraloginTestCases.BaseClass -INFO - submit button clicked
+2021-01-29 15:42:43,871 - com.intraloginTestCases.BaseClass -INFO - edit button clicked
+2021-01-29 15:42:45,760 - com.intraloginTestCases.BaseClass -INFO - daywise shipcount entered
+2021-01-29 15:42:46,421 - com.intraloginTestCases.BaseClass -INFO - min limit entered
+2021-01-29 15:42:47,046 - com.intraloginTestCases.BaseClass -INFO - Max os entered
+2021-01-29 15:42:47,604 - com.intraloginTestCases.BaseClass -INFO - max days entered
+2021-01-29 15:42:47,677 - com.intraloginTestCases.BaseClass -INFO - update clicked
+2021-01-29 15:42:48,263 - com.intraloginTestCases.BaseClass -INFO - alert accepted
+2021-02-12 10:38:38,566 - com.intraloginTestCases.BaseClass -INFO - Browser open
+2021-02-12 10:38:38,985 - com.intraloginTestCases.BaseClass -INFO - User name provided
+2021-02-12 10:38:39,271 - com.intraloginTestCases.BaseClass -INFO - Password Provided
+2021-02-12 10:38:49,106 - com.intraloginTestCases.BaseClass -INFO - clicked on last mail delivery
+2021-02-12 10:38:50,438 - com.intraloginTestCases.BaseClass -INFO - clicked on master utility
+2021-02-12 10:38:54,788 - com.intraloginTestCases.BaseClass -INFO - biker selected
+2021-02-12 10:38:59,210 - com.intraloginTestCases.BaseClass -INFO - submit button clicked
+2021-02-12 10:39:01,407 - com.intraloginTestCases.BaseClass -INFO - edit button clicked
+2021-02-12 10:39:03,628 - com.intraloginTestCases.BaseClass -INFO - daywise shipcount entered
+2021-02-12 10:39:04,490 - com.intraloginTestCases.BaseClass -INFO - min limit entered
+2021-02-12 10:39:05,368 - com.intraloginTestCases.BaseClass -INFO - Max os entered
+2021-02-12 10:39:06,201 - com.intraloginTestCases.BaseClass -INFO - max days entered
+2021-02-12 10:39:06,323 - com.intraloginTestCases.BaseClass -INFO - update clicked
+2021-02-12 10:39:07,052 - com.intraloginTestCases.BaseClass -INFO - alert accepted

@@ -7,11 +7,11 @@ import org.openqa.selenium.support.PageFactory;
 
 public class UserLogin {
 	
-	WebDriver rdriver;
+	WebDriver ldriver;
 	
-	public UserLogin(WebDriver driver) {
-		rdriver=driver;
-		PageFactory.initElements(driver, this);
+	public UserLogin(WebDriver rdriver) {
+		ldriver=rdriver;
+		PageFactory.initElements(rdriver, this);
 	    }
 	@FindBy(id="logid")
 	WebElement userid; 
